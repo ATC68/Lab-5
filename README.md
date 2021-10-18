@@ -8,7 +8,7 @@ Download code to machine. Import into whatever python-using-IDE you like.
 Call the function in a program, and you can use it!
 
 ## Contributing
-Pull requests are welcome. For major issues, contact with an issue youd like to solve first.
+Pull requests are welcome. For major issues, contact with an issue you'd like to solve first.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
